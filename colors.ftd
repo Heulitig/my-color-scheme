@@ -36,7 +36,7 @@ dark: #3e0306
 
 -- ftd.color text-:
 light: #707070
-dark: #D9D9D9
+dark: #FFFF00
 
 -- ftd.color text-strong-:
 light: #333333
